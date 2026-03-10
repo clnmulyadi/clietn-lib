@@ -1,0 +1,5 @@
+# push 03/09/2026 14:23:27
+name = 'client-lib'
+main = 'worker.js'
+compatibility_date = '2026-03-09'
+workers_dev = true
